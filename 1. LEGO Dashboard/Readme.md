@@ -12,13 +12,17 @@ The dashboard is designed with user-centric navigation, enabling both high-level
 🚀 Features (Your Project Strength 🔥)
 
 📊 Interactive Visualizations: KPI Cards: Total Sets, Avg Pieces, Avg Price, Table with filtering & sorting
-🔍 Advanced Filtering System: Theme Group slicer, Age Range slicer, Dynamic filtering across visuals
-🔗 Visual Interactions (Highlight) : This dashboard uses cross-filtering + cross-highlighting:
+
 🎯 Custom Tooltip (Advanced Feature): Hover over visuals → shows detailed insights, Improves UX without cluttering dashboard
+
 🔖 Bookmark Actions (Key Highlight): Buttons:, Reset Filters, Set Explore
+
 🎛️ Parameters / Dynamic Inputs: Price range input (manual selection), Enables what-if style exploration
+
 📄 Page Navigation:Multi-view dashboard structure, Smooth navigation using buttons/icons
+
 🌊 Decomposition Tree (Second Image) Deep drill-down: Category → Theme Group → Theme → Set Name Helps identify: High-performing segments Data hierarchy insights 👨‍💻 What Users Can Do
+
 📁 Project Structure (Recommended) LEGO-PowerBI-Dashboard/ │ ├── data/ │ └── lego_sets.csv │ ├── dashboard/ │ └── LEGO Dashboard.pbix │ ├── images/ │ └── dashboard_preview.png │ └── README.md
 
 Users can:
